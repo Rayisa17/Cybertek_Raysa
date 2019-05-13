@@ -2,6 +2,12 @@ package package1;
 
 public class VirginiaBeach {
 	
-	//what is your name ?! 
+	public static void main(String[] args) {
+		
+		
+		 System.out.println(" what is your name ?");
+		
+	}
+	}
 
-}
+
